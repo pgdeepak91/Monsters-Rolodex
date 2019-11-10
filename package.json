@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pgdeepak91.github.io/monsters-rolodex-app",
+  "homepage": "https://pgdeepak91.github.io/Monsters-Rolodex",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
